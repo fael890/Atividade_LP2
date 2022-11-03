@@ -103,7 +103,7 @@ Na apresentação da ferramenta foi disponibilizado um exemplo e uma explicaçã
 
 <a href='https://docs.python.org/3/library/tk.html'>Clique para acessar a documentação do tkinter!</a>
 
-<a href='https://www.pythontutorial.net/tkinter/tkinter-ttk/'>Clique para acessar um tutoriais sobre ttk!</a>
+<a href='https://www.pythontutorial.net/tkinter/tkinter-ttk/'>Clique para acessar tutoriais sobre ttk!</a>
 
 
 
