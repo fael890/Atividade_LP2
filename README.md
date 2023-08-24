@@ -97,7 +97,7 @@ Para vincular a função no botão é necessário utilizar o ``command=nomeDaFun
 
 <h1>Observações</h1>
 O tkinter é uma boa biblioteca para criação de interfaces gráficas, ainda mais quando você aplica um facilitador como Pygubu, que seria um programa de construções de interface baseado em tkinter, ou seja, você pode construir uma tela de forma intuitiva.
-Na apresentação da ferramenta foi disponibilizado um exemplo e uma explicação extremamente superficial. A melhor coisa é procurar masi informações na documentação que na seção de referências.
+Na apresentação da ferramenta foi disponibilizado um exemplo e uma explicação extremamente superficial. A melhor coisa é procurar mais informações na documentação que está na seção de referências.
 
 <h1>Referências</h1>
 
